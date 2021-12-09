@@ -1,3 +1,6 @@
 # django_quiz
 to start:
-start 
+
+python manage.py migrate 
+python manage.py makemigrations
+python manage.py runserver
